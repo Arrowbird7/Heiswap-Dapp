@@ -38,6 +38,4 @@ The [proof-of-concept repository is located here](https://github.com/kendricktan
 
 This project would not have been possible without the existence of other open sourced projects, most notably
 
-- [HarryR](https://github.com/HarryR/solcrypto)
-- [CryptoNote](https://eprint.iacr.org/2004/027.pdf)
-- [Piper Merriam](https://github.com/ethereum/py_ecc/blob/master/py_ecc/bn128/bn128_curve.py)
+If you have some questions in this project, feel free to reach out.
